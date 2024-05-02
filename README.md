@@ -8,7 +8,7 @@
     - Dense(128, activation = "relu"),
     - Dense(1),
 - DataSet Taken from Kaggle <a href = https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression>Second Hand Car Dataset.</a>.
-- Looses comprehended by model :
+- Losses comprehended by model :
     - loss: 36433.3633
     - root_mean_squared_error: 46644.2148
     - val_loss: 37564.8867
